@@ -3,8 +3,8 @@
 This is a realtime Heatplot EMG/EEG Datavisualizer. At the moment only Databases
 can be used as data sources however it is possible to add other data
 sources for future . Additional to the Heatmap a line plot and a spectrum plot was added.
-##User Guide
-###Installation
+## User Guide
+### Installation
 1. Click on the installer to install the programm at the current directory
 2. Follow instructions of the installation wizard
 3. Go to dist directory and execute main.exe
